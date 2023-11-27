@@ -2,12 +2,10 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
-  Olá, eu sou <strong>Orlando Pfumo</strong>, um entusiasta da informática em constante busca por desafios emocionantes e soluções inovadoras.
-  <br><br>
-  Com uma paixão ardente pelo desenvolvimento de software, mergulho nas linhas de código para criar experiências digitais incríveis. Sou <strong>apaixonado por descobrir coisas novas</strong> e utilizá-las para criar soluções de alta qualidade.
-  <br><br>
-  Atualmente, sou um <strong>desenvolvedor full stack de nível médio</strong>, concentrando-me no desenvolvimento web.
+  Eu ❤️ resolvo grandes desafios usando tecnologia. <br><br>
+  Desde o desenvolvimento backend usando Flask até o desenvolvimento frontend usando ReactTS, sou <strong>apaixonado por descobrir coisas novas</strong> e usá-las para criar soluções de alta qualidade. Hoje sou um <strong>desenvolvedor full stack de nível médio</strong> focado em desenvolvimento web.
 </p>&nbsp;
+
 
 
 <div  align="center" style="margin-bottom:100px">
