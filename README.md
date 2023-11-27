@@ -1,7 +1,14 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/orlandopfumo/orlandopfumo/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center"> sou Orlando Pfumo, um entusiasta da informática em constante busca por desafios emocionantes e soluções inovadoras <br><br> Com uma paixão ardente pelo desenvolvimento de software, mergulho nas linhas de código para criar experiências digitais incríveis. <strong>apaixonado por descobrir coisas novas</strong> e usá-las para criar soluções de alta qualidade</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">
+  Olá, eu sou <strong>Orlando Pfumo</strong>, um entusiasta da informática em constante busca por desafios emocionantes e soluções inovadoras.
+  <br><br>
+  Com uma paixão ardente pelo desenvolvimento de software, mergulho nas linhas de código para criar experiências digitais incríveis. Sou <strong>apaixonado por descobrir coisas novas</strong> e utilizá-las para criar soluções de alta qualidade.
+  <br><br>
+  Atualmente, sou um <strong>desenvolvedor full stack de nível médio</strong>, concentrando-me no desenvolvimento web.
+</p>&nbsp;
+
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=orlandopfumo&theme=radical&mode=weekly" />
